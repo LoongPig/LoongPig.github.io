@@ -157,12 +157,12 @@ export const themeConfig = {
         {
           icon: "/images/logo/logo.webp",
           name: "Home",
-          url: "https://tsh1203.github.io/home",
+          url: "https://LoongPig.github.io/home",
         },
         {
           icon: "/images/logo/logo.webp",
           name: "代码",
-          url: "https://tsh1203.github.io/code",
+          url: "https://LoongPig.github.io/code",
         },
       ],
     },
@@ -191,7 +191,7 @@ export const themeConfig = {
     social: [
       {
         icon: "email",
-        link: "mailto:David_tsh@163.com",
+        link: "DragonPigLZY@163.com",
       },
       {
         icon: "github",
@@ -212,9 +212,9 @@ export const themeConfig = {
       {
         text: "项目",
         items: [
-          { text: "Home", link: "https://tsh1203.github.io/home", newTab: true },
-          { text: "Blog", link: "https://tsh1203.github.io", newTab: true },
-          { text: "Code", link: "https://github.com/tsh1203/code", newTab: true },
+          { text: "Home", link: "https://LoongPig.github.io/home", newTab: true },
+          { text: "Blog", link: "https://LoongPig.github.io", newTab: true },
+          { text: "Code", link: "https://github.com/LoongPig/code", newTab: true },
         ],
       },
       {
@@ -228,7 +228,7 @@ export const themeConfig = {
       {
         text: "服务",
         items: [
-          { text: "一个导航", link: "https://tsh1203.github.io/web", newTab: true },
+          { text: "一个导航", link: "https://LoongPig.github.io/web", newTab: true },
         ],
       },
     ],

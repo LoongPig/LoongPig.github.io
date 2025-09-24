@@ -4,7 +4,7 @@
       type="page"
       title="我的项目"
       desc="源于热爱开发优秀的作品"
-      footer="写 BUG 小能手"
+      footer="写项目小能手"
       image="https://pic.efefee.cn/uploads/2024/02/27/65dd8dae6043c.webp"
     >
       <template #footer-slot>

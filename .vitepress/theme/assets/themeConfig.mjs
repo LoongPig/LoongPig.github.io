@@ -3,21 +3,21 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "Tsh's blog",
+    title: "LoongPig's blog",
     // 站点描述
     description: "Hello World",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://tsh1203.github.io",
+    site: "https://LoongPig.github.io",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "Tsh",
+      name: "LoongPig",
       cover: "/images/logo/logo.webp",
-      email: "mailto:David_tsh@163.com",
-      link: "https://github.com/tsh1203",
+      email: "DragonPigLZY@163.com",
+      link: "https://github.com/LoongPig",
     },
   },
   // 备案信息

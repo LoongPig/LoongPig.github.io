@@ -6,7 +6,7 @@
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你??</span>
         <span class="text2 title2">我是 Tsh</span>
-        <span class="text3">是一名 初二牲</span>
+        <span class="text3">是一名初一学生</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
@@ -77,7 +77,7 @@
         </div>
         <div class="about-item">
           <span class="tip">音乐偏好</span>
-          <span class="title2">日语流行，音游曲</span>
+          <span class="title2">周杰伦的歌曲</span>
           <div class="image-desc">
             <span class="left">一起欣赏更多音乐</span>
           </div>
@@ -92,7 +92,7 @@
           创建这个站的时候，想要就是能够有一个自己能够<strong>积累知识</strong>、<strong>积累兴趣</strong>的地方。和他人分享，会让这些成为<strong>积累和沉淀</strong>。如果能够帮助到更多的人，帮助更多人解决问题，那一定是非常棒的事情。
         </p>
         <p class="text">
-          这里大多都是 <strong>OI 向</strong>的文章，可能不太会有很多人看，权当是做个自我记录吧。当然，如果某篇文章能够帮助到你，那我也是很开心的。
+          这里大多都是 <strong>OI 向</strong>的文章，可能不太会有很多人看，全当是做个自我记录吧。当然，如果某篇文章能够帮助到你，那我也是很开心的。
         </p>
         <p class="text">
           这些就是建立这个小站的本意，<strong>也是我分享生活的方式</strong>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。

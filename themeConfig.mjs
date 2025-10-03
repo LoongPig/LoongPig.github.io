@@ -3,18 +3,18 @@ export const themeConfig = {
   // 站点信息
   siteMeta: {
     // 站点标题
-    title: "九天之上",
+    title: "LoongPig",
     // 站点描述
     description: "基于 vitepress-theme-curve 搭建的 github pages 站点",
     // 站点logo
     logo: "/images/logo/logo.webp",
     // 站点地址
-    site: "https://blog2.811520.xyz",
+    site: "https://blog.akioi-pig.xyz",
     // 语言
     lang: "zh-CN",
     // 作者
     author: {
-      name: "雨天狂奔",
+      name: "LoongPig",
       cover: "/images/logo/logo.webp",
       email: "admin@24811213.xyz",
       link: "https://daoyi.hidns.vip/#/",
@@ -40,7 +40,7 @@ export const themeConfig = {
           rel: "alternate",
           type: "application/rss+xml",
           title: "RSS",
-          href: "https://blog2.811520.xyz/rss.xml",
+          href: "https://blog.akioi-pig.xyz/rss.xml",
         },
       ],
       // 预载 CDN
